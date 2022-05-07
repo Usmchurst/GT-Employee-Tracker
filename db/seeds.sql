@@ -8,7 +8,7 @@ VALUES
     ('Physics'),
     ('Legal');
 
-INSERT INTO role
+INSERT INTO role 
     (title, salary, department_id)
 VALUES
     ('Bio Lead', 135000, 1),
