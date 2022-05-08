@@ -38,5 +38,15 @@ The application uses Node.js to create a databse used to track epmloyees in a co
  James Edwards
 
  Several people on ask BCS helping 
+ 
+ # Video
+ 
+
+https://user-images.githubusercontent.com/97471253/167282450-c7502353-fe8d-4fd2-99e0-72bc102cff92.mp4
+
+
 
 # Links
+
+https://drive.google.com/file/d/125DnjmoXp109ClQ5b2pACfnXunGbmNsb/view
+
